@@ -1,0 +1,13 @@
+File Name: test.txt
+Path: test.txt
+Abs Path: C:\Users\Aresi\Desktop\Oops Lab\Java\test.txt
+Parent: null
+This file is: Exists
+Is file: true
+Is Directory: false
+Is Readable: true
+Is Writable: true
+Is Absolute: false
+File Last Modified: 1779574200000
+File Size: 25 bytes
+Is Hidden: false
