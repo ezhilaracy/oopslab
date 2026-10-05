@@ -1,0 +1,27 @@
+===== CAREER SIMULATOR =====
+Select your area of interest:
+1. Mathematics & Logic
+2. Computer & Technology
+3. Biology & Medicine
+4. Art & Creativity
+5. Business & Management
+Enter your choice (1-5): 2
+Rate your interest level in this field (1-10): 5
+
+--> Suggested Career Path: IT Support Specialist  [Interest Level: Medium]
+
+Do you want to explore another field? (y/n): yes
+
+===== CAREER SIMULATOR =====
+Select your area of interest:
+1. Mathematics & Logic
+2. Computer & Technology
+3. Biology & Medicine
+4. Art & Creativity
+5. Business & Management
+Enter your choice (1-5): 5
+Rate your interest level in this field (1-10): 4
+
+--> Suggested Career Path: Marketing Executive  [Interest Level: Medium]
+
+Do you want to explore another field? (y/n): no
